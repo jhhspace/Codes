@@ -7,3 +7,4 @@
 
 # **Please head __[here](https://github.com/jhhspace/Art-Gallery/tree/main/Codes)__ to find the codes you need :D**
 - If you find any errors, feel free to make a issue report [over here](https://github.com/jhhspace/Art-Gallery/issues)
+- If you have any questions related or unrelated to the codes, for example you need help with certain coding errors, feel free to start a discussion [over here](https://github.com/jhhspace/Art-Gallery/discussions/categories/questions-issues)
