@@ -6,3 +6,4 @@
 script.LocalBackgroundMusic.Parent = game.StarterPlayer.StarterPlayerScripts
 game.StarterPlayer.StarterPlayerScripts.LocalBackgroundMusic.Disabled = false
 script:remove()
+-- Thats all!
