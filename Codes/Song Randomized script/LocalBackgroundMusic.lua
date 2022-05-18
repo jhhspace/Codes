@@ -30,3 +30,4 @@ while true do
 	sound:Play()
 	wait(sdelay)
 end
+-- Thats all!
