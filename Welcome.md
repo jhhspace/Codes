@@ -1,4 +1,4 @@
-# Art Gallery important codes
+# Art Gallery game codes
 
 - Welcome to BSS Art Gallery code zone, here you will find codes that are coded in LUA for you to use (optional) in your ROBLOX game!
 - Modifications to the codes are allowed so feel free to use it, just leave the credits as it is if you want to credit me for making that code :)
