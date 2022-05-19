@@ -15,3 +15,6 @@
 5) Fill Song1 - Song4 with your ROBLOX Music ID, ROBLOX will auto rename to rbxassetid://<Music ID>
 
 That's all, have fun with your music :)
+
+  Oh yes, if you're lazy to do all this, I have you covered. 
+ ## [Click me to access the model](https://www.roblox.com/library/9666698097/Music)
