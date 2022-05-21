@@ -40,3 +40,5 @@ ProximityPrompt.Triggered:Connect(function()
 	script.Parent.Close:Play() -- rbxassetid://192416578
 
 end)
+
+-- AH YES, credits for Frogrotten_Deb for the skript
