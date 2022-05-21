@@ -41,4 +41,4 @@ ProximityPrompt.Triggered:Connect(function()
 
 end)
 
--- AH YES, credits for Frogrotten_Deb for the skript
+-- AH YES, credits to Frogrotten_Deb for the skript
