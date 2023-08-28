@@ -15,4 +15,4 @@ Here are all the games i have planned to make the script open source. I'm planni
 - [mooooooooo](https://www.roblox.com/games/11770365105/mooooooooo)
 
 ### Websites I Own
-- [pf](https://pf.jhhspace.com)
+- [projects](https://project.jhhspace.com)
