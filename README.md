@@ -1,3 +1,5 @@
+# All this code is now deprecated and will no longer be updated as of 1 January 2023
+
 # Game codes
 
 - Welcome to jhh's LUA code zone, here you will find codes that are coded in LUA for you to use (optional) in your ROBLOX game!
